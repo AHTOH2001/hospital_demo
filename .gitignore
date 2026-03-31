@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python bytecode
+*.pyc
+__pycache__/
+
+# IDE-specific files (example for VS Code)
+.vscode/
+
+# Django-specific files/folders that can be regenerated
+# e.g., database file
+db.sqlite3
+.coverage
+/static_collected/
